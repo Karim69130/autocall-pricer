@@ -3,7 +3,7 @@
 Projet personnel en Python : pricing Monte Carlo d'un autocall sur indice, calcul du coupon
 qu'une banque peut offrir, et simulation de la couverture en delta d'une option vendue.
 
-![Aperçu du simulateur](images/apercu_app.png)
+![Aperçu du simulateur](apercu_app.png)
 
 ## Contenu
 
